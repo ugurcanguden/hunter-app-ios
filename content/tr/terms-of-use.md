@@ -1,5 +1,5 @@
 ---
-title: "Hunter App Kullanım Koşulları"
+title: "Center Hit Kullanım Koşulları"
 date: "2026-03-10"
 ---
 

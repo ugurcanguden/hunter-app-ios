@@ -1,5 +1,5 @@
 ---
-title: "Hunter App Gizlilik Politikası"
+title: "Center Hit Gizlilik Politikası"
 date: "2026-03-10"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hunter App Terms of Use"
+title: "Center Hit Terms of Use"
 date: "2026-03-10"
 ---
 

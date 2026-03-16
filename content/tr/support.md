@@ -1,5 +1,5 @@
 ---
-title: "Hunter App Destek"
+title: "Center Hit Destek"
 date: "2026-03-10"
 ---
 

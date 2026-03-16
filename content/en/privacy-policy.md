@@ -1,5 +1,5 @@
 ---
-title: "Hunter App Privacy Policy"
+title: "Center Hit Privacy Policy"
 date: "2026-03-10"
 ---
 

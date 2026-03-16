@@ -9,13 +9,13 @@ export const dictionaries = {
       back: "Back to Documents",
     },
     home: {
-      title: "Hunter App Documents",
+      title: "Center Hit Documents",
       description:
-        "Welcome to the official legal and support documentation for Hunter App. Please review the terms of use, privacy policies, and other important documents below.",
+        "Welcome to the official legal and support documentation for Center Hit. Please review the terms of use, privacy policies, and other important documents below.",
       readDocument: "Read Document",
     },
     footer: {
-      rights: "Hunter App. All rights reserved.",
+      rights: "Center Hit. All rights reserved.",
     },
     language: {
       english: "English",
@@ -29,13 +29,13 @@ export const dictionaries = {
       back: "Belgelere Dön",
     },
     home: {
-      title: "Hunter App Belgeleri",
+      title: "Center Hit Belgeleri",
       description:
-        "Hunter App resmi yasal ve destek belgelerine hoş geldiniz. Lütfen aşağıdaki kullanım koşullarını, gizlilik politikalarını ve diğer önemli belgeleri inceleyin.",
+        "Center Hit resmi yasal ve destek belgelerine hoş geldiniz. Lütfen aşağıdaki kullanım koşullarını, gizlilik politikalarını ve diğer önemli belgeleri inceleyin.",
       readDocument: "Belgeyi Oku",
     },
     footer: {
-      rights: "Hunter App. Tüm hakları saklıdır.",
+      rights: "Center Hit. Tüm hakları saklıdır.",
     },
     language: {
       english: "English",

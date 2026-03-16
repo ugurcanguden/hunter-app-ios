@@ -10,8 +10,8 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 const firaCode = Fira_Code({ subsets: ['latin'], variable: '--font-mono' });
 
 export const metadata: Metadata = {
-  title: 'Hunter App | Legal Documents',
-  description: 'Terms of Use, Privacy Policy, and Support for Hunter App.',
+  title: 'Center Hit | Legal Documents',
+  description: 'Terms of Use, Privacy Policy, and Support for Center Hit.',
 };
 
 export default async function RootLayout({
@@ -35,7 +35,7 @@ export default async function RootLayout({
                   H
                 </div>
                 <span className="font-semibold text-xl tracking-tight text-white group-hover:text-teal-400 transition-colors">
-                  Hunter App Docs
+                  Center Hit Docs
                 </span>
               </Link>
               <nav className="flex items-center gap-6">
