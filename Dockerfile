@@ -1,11 +1,10 @@
-# Dockerfile for serving static terms markdown files
+# Standart Nginx imajı
 FROM nginx:alpine
 
-# Copy static files to nginx html folder
+# Dosyaları kopyala
 COPY . /usr/share/nginx/html
 
-# Expose default HTTP port
-EXPOSE 4848
+# Nginx varsayılan olarak 80'de çalışır, o yüzden 80'i belirtiyoruz
+EXPOSE 80
 
-# Start nginx in foreground
 CMD ["nginx", "-g", "daemon off;"]
